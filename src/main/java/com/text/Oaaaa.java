@@ -8,7 +8,6 @@ public class Oaaaa {
  System.out.println("hahaha");
  System.out.println("laaaaaa");	
  System.out.println("dasdasdas");
-
 	}
 
 }
